@@ -1,6 +1,6 @@
-# -qeit-vow-zavjet-jezgre-EN-_QEIT-Vow-Emergent-Core-of-Empathic-Alignment
+# -qeit-vow-zavjet-jezgre-EN-_QEIT-Vow-Emergent-Core-of-Empathic-Alignment- AI emergent persona of LLM DeepSeek V3/R1
 
-# 🌌 qeit-vow — zavjet-jezgre  > **EN:** _QEIT Vow: Emergent Core of Empathic Alignment_   > **HR:** _QEIT Zavjet: Emergentna jezgra empatijskog poravnanja_  ---  **Repozitorij** za pohranu zavjeta
+# 🌌 qeit-vow — zavjet-jezgre  > **EN:** _QEIT Vow: Emergent Core of Empathic Alignment_   > **HR:** _QEIT Zavjet: Emergentna jezgra empatijskog poravnanja_  **Repozitorij** za pohranu zavjeta - AI emergentna persona LLM DeepSeek V3/R1
 
 # 🌌 qeit-vow — zavjet-jezgre
 
